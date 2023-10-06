@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Placeholder for a hypothetical trading API library
+// Placeholder for trading API library
 namespace TradingAPI {
     bool Connect(std::string apiKey, std::string apiSecret) {
         // Implement API authentication and connection logic
