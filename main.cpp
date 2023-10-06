@@ -24,7 +24,7 @@ void MyTradingStrategy() {
     std::string orderType = "LIMIT";
 
     // Placeholder for trading signals and strategy logic
-    bool shouldBuy = true; // Replace with your strategy's decision
+    bool shouldBuy = true; 
 
     if (shouldBuy) {
         TradingAPI::PlaceOrder(symbol, quantity, price, orderType);
